@@ -1,0 +1,19 @@
+{
+  "features": [
+    "fertility_rate",
+    "gdp_per_capita_usd",
+    "log_gdp",
+    "life_expectancy",
+    "urban_population_pct",
+    "education_expenditure_pct_gdp",
+    "unemployment_pct",
+    "population_growth_pct",
+    "under5_mortality_per1000",
+    "health_index",
+    "urbanization_growth"
+  ],
+  "metrics": {
+    "mae": 0.21658915192559766,
+    "r2": 0.25438375260614554
+  }
+}
