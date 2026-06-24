@@ -21,5 +21,5 @@ Git-история
 git log
 
 
-<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/9ebbef91-8134-4607-b54b-52b678d2fc53" />
+<img width="1920" height="911" alt="1" src="https://github.com/user-attachments/assets/9de04c07-a0d3-4ec4-bb13-0452ae355ac7" />
 
