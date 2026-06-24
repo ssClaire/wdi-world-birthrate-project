@@ -1,4 +1,5 @@
 # **Прогноз глобальной рождаемости**
+навеяно https://www.youtube.com/watch?v=CUZgsR4gBuc&t=3s
 
 прогноз глобальной рождаемости (https://www.kaggle.com/datasets/utkarshx27/world-development-indicators-dataset ) 
 
